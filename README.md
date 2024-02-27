@@ -38,7 +38,7 @@ Master the fundamentals of programming using flowcharts, pseudocode, and the pow
 
    5. Move to the next suggested question;
 
-   6. _\[Repeat from point a. to e. till you finish the suggested questions]_
+   6. _\[Repeat from point i. to v. till you finish the suggested questions]_
 
    7. Do a self assessment using the “Knowledge check” section;
 
