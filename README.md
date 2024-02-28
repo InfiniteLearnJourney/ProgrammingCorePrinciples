@@ -48,10 +48,9 @@ Master the fundamentals of programming using flowcharts, pseudocode, and the pow
 
 3. **Explore on your own**, is there any aspect you are more intrigued about, do more research. Always ask why and how?
 
-Start your jounery [here](https://github.com/InfiniteLearnJourney/ProgrammingCorePrinciples/blob/main/guide/01.%20History%20of%20computers.md)
+Start your jounery [here](https://github.com/InfiniteLearnJourney/ProgrammingCorePrinciples/blob/main/guide/01.%20History%20of%20computers.md) - or download the full guide in [PDF](https://raw.githubusercontent.com/InfiniteLearnJourney/ProgrammingCorePrinciples/main/download/Core%20Principles%20of%20Programming%20-%20A%20Learning%20Blueprint.pdf) or [epub](https://github.com/InfiniteLearnJourney/ProgrammingCorePrinciples/raw/main/download/Core%20Principles%20of%20Programming%20-%20A%20Learning%20Blueprint.epub).
+
 
 
 Your contributions and questions are highly encouraged! To ask a question, simply create a [new "Discussion"](https://github.com/InfiniteLearnJourney/ProgrammingCorePrinciples/discussions/new/choose) or join an [existing one](https://github.com/InfiniteLearnJourney/ProgrammingCorePrinciples/discussions/). We look forward to hearing from you.
-
-
-You can also download the full guide in [PDF](https://raw.githubusercontent.com/InfiniteLearnJourney/ProgrammingCorePrinciples/main/download/Core%20Principles%20of%20Programming%20-%20A%20Learning%20Blueprint.pdf) or [epub](https://github.com/InfiniteLearnJourney/ProgrammingCorePrinciples/raw/main/download/Core%20Principles%20of%20Programming%20-%20A%20Learning%20Blueprint.epub).
+ 
